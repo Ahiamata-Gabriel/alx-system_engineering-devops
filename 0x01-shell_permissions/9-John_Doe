@@ -1,2 +1,2 @@
 #!/bin/bash
-753
+sudo chmod 753 hello
