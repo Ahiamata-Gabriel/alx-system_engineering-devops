@@ -1,0 +1,1 @@
+sudo chmod --reference=olleh hello
